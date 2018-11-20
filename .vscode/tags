@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BLUE	../blink1-timer.py	/^   BLUE = '\\033[94m'$/;"	kind:variable	line:18
+BOLD	../blink1-timer.py	/^   BOLD = '\\033[1m'$/;"	kind:variable	line:22
+Blink1	../blink1-timer.py	/^from blink1.blink1 import Blink1$/;"	kind:namespace	line:3
+CYAN	../blink1-timer.py	/^   CYAN = '\\033[96m'$/;"	kind:variable	line:16
+DARKCYAN	../blink1-timer.py	/^   DARKCYAN = '\\033[36m'$/;"	kind:variable	line:17
+END	../blink1-timer.py	/^   END = '\\033[0m'$/;"	kind:variable	line:24
+GREEN	../blink1-timer.py	/^   GREEN = '\\033[92m'$/;"	kind:variable	line:19
+PURPLE	../blink1-timer.py	/^   PURPLE = '\\033[95m'$/;"	kind:variable	line:15
+RED	../blink1-timer.py	/^   RED = '\\033[91m'$/;"	kind:variable	line:21
+UNDERLINE	../blink1-timer.py	/^   UNDERLINE = '\\033[4m'$/;"	kind:variable	line:23
+YELLOW	../blink1-timer.py	/^   YELLOW = '\\033[93m'$/;"	kind:variable	line:20
+arg_pause	../blink1-timer.py	/^arg_pause = int(args.pause[0])$/;"	kind:variable	line:45
+arg_time	../blink1-timer.py	/^arg_time  = int(args.time[0])$/;"	kind:variable	line:44
+argparse	../blink1-timer.py	/^import argparse$/;"	kind:namespace	line:6
+args	../blink1-timer.py	/^args = parser.parse_args()$/;"	kind:variable	line:39
+b1	../blink1-timer.py	/^b1 = Blink1()$/;"	kind:variable	line:42
+blink1-timer.py	../blink1-timer.py	1;"	kind:file	line:1
+color	../blink1-timer.py	/^class color:$/;"	kind:class	line:14
+help	../blink1-timer.py	/^                    help='Time in minutes to rest, LED stays red')$/;"	kind:variable	line:38
+help	../blink1-timer.py	/^                    help='Time in minutes to work, LED stays green')$/;"	kind:variable	line:36
+parser	../blink1-timer.py	/^                                                 minutes work and 10 minutes break, how I personally use it.')$/;"	kind:variable	line:34
+pausetime_left	../blink1-timer.py	/^    pausetime_left = arg_pause$/;"	kind:variable	line:58
+signal	../blink1-timer.py	/^import signal$/;"	kind:namespace	line:4
+signal_handler	../blink1-timer.py	/^def signal_handler(sig, frame):$/;"	kind:function	line:8
+sys	../blink1-timer.py	/^import sys$/;"	kind:namespace	line:5
+time	../blink1-timer.py	/^import time$/;"	kind:namespace	line:2
+timetime_left	../blink1-timer.py	/^    timetime_left = arg_time$/;"	kind:variable	line:50
