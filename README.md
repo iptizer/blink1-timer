@@ -21,5 +21,5 @@ As a classic Pomorodo Timer:
 How I use it with different timer values:
 
 ```bash
-./timer.py -t 25 -p 5
+./timer.py -t 50 -p 10
 ```
